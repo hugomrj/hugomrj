@@ -9,19 +9,23 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y el 
 - **LinkedIn:** [https://www.linkedin.com/in/hugomrj/](https://www.linkedin.com/in/hugomrj/)
 - **GitHub:** [https://github.com/hugomrj/](https://github.com/hugomrj/)
 
-## Habilidades
+## Stack
 - **Lenguajes de Programación:**
   - Java con Jakarta
   - Vanilla JavaScript
-  - CSS
-  - Python con Django
+  - Python (practicando con Django)
 - **Bases de Datos:**
   - PostgreSQL
   - MySQL
+- **Front-end:**
+  - HTML
+  - CSS
 - **Servidores:**
   - AWS
   - Nginx
-  - Servidores Java: TomEE, GlassFish, WildFly
+  - TomEE
+  - GlassFish
+  - WildFly
 - **Sistemas Operativos:**
   - Linux
 
