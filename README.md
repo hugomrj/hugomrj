@@ -35,6 +35,7 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y el 
 - Una aplicación web para gestionar tareas y proyectos. Desarrollada con Java y PostgreSQL.
 
 
+## Estadistica de Gibhub
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&theme=radical" alt="Lenguajes más utilizados" style="width: 48%;">
