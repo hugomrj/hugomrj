@@ -29,6 +29,10 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y el 
 - **Sistemas Operativos:**
   - Linux
 
+
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
 ## Proyectos
 ### [Proyecto sistena de facturacion electronica](http://34.216.58.69:8070/proyectoneto)
 - Una aplicación web para gestionar tareas y proyectos. Desarrollada con Java y PostgreSQL.
