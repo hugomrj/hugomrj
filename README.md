@@ -35,14 +35,15 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y el 
 - Una aplicación web para gestionar tareas y proyectos. Desarrollada con Java y PostgreSQL.
 
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
+<div style="display: flex;">
+    <div style="flex: 1; margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="200px">
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 1; margin-left: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&theme=radical" alt="Lenguajes más utilizados" height="200px">
     </div>
 </div>
+
 
 
 ---
