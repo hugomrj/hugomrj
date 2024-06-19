@@ -1,7 +1,7 @@
 # ¡Hola! Soy Hugo Marciano Romero
 
 
-Soy un desarrollador de software con una fuerte pasión por la tecnología y el aprendizaje continuo. Me especializo en Java y Jakarta, y tengo experiencia con varias bases de datos y servidores. Disfruto trabajar con PostgreSQL y MySQL, así como con Vanilla JS y CSS. Actualmente, estoy perfeccionando mis habilidades en Python con Django y utilizo AWS para desplegar mis proyectos. También configuro servidores como Nginx y trabajo con servidores Java como TomEE, GlassFish y WildFly. Soy un entusiasta de Linux y tengo varios proyectos disponibles en GitHub, además de un sistema demo en AWS.
+Soy un desarrollador de software con una fuerte pasión por la tecnología y el aprendizaje continuo.
 
 
 ## Contacto
