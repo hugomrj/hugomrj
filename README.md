@@ -35,15 +35,15 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y el 
 
 ### [Proyecto Sistema de Facturación Electrónica](http://34.216.58.69:8070/proyectoneto)
 
-<div style="background-color: #f0f0f0; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h4>Descripción del Proyecto</h4>
-    <p>Una aplicación web para gestionar tareas y proyectos, desarrollada con Java y PostgreSQL.</p>
-    
-    <h4>Credenciales de Demostración</h4>
-    <ul>
-        <li><strong>Usuario:</strong> demo</li>
-        <li><strong>Contraseña:</strong> demo</li>
-    </ul>
+<div style="border: 1px solid #eaeaea; border-radius: 8px; padding: 16px; background-color: #ffffff; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);">
+
+#### Descripción del Proyecto
+Una aplicación web para gestionar tareas y proyectos, desarrollada con Java y PostgreSQL.
+
+#### Credenciales de Demostración
+- **Usuario:** demo
+- **Contraseña:** demo
+
 </div>
 
 
