@@ -40,6 +40,7 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y el 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&theme=radical)
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&theme=radical)
 
+![Actividad semanal](https://github-readme-stats.vercel.app/api/wakatime?username=hugomrj)
 
 
 ---
