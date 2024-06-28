@@ -8,6 +8,7 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y el 
 - **Email:** hugomrj@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/hugomrj/](https://www.linkedin.com/in/hugomrj/)
 - **GitHub:** [https://github.com/hugomrj/](https://github.com/hugomrj/)
+- **Facebook:** [https://www.facebook.com/hugomrj/)
 
 ## Stack
 - **Lenguajes de Programación:**
