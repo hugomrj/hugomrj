@@ -1,14 +1,15 @@
 # ¡Hola! Soy Hugo Marciano Romero
 
-
 Soy un desarrollador de software con una fuerte pasión por la tecnología y el aprendizaje continuo.
 
+## Resumen Profesional
+Soy un desarrollador con experiencia en una variedad de tecnologías y lenguajes de programación. Me especializo en [tu área de especialización] y busco oportunidades para contribuir en proyectos innovadores y desafiantes.
 
 ## Contacto
 - **Email:** hugomrj@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/hugomrj/](https://www.linkedin.com/in/hugomrj/)
 - **GitHub:** [https://github.com/hugomrj/](https://github.com/hugomrj/)
-- **Facebook:** [https://www.facebook.com/hugomrj/)
+- **Facebook:** [https://www.facebook.com/hugomrj/](https://www.facebook.com/hugomrj/)
 
 ## Stack
 - **Lenguajes de Programación:**
@@ -30,9 +31,27 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y el 
 - **Sistemas Operativos:**
   - Linux
 
+## Experiencia Laboral
+### Desarrollador de Software en [Nombre de la Empresa]
+*Fecha de inicio - Fecha de fin*
+- Descripción de responsabilidades y logros.
+- Tecnologías utilizadas: [Tecnologías].
+
+### [Otro Rol Anterior]
+*Fecha de inicio - Fecha de fin*
+- Descripción de responsabilidades y logros.
+- Tecnologías utilizadas: [Tecnologías].
+
+## Educación
+### [Nombre del Título] en [Nombre de la Institución]
+*Fecha de inicio - Fecha de fin*
+- Descripción de cursos relevantes o logros académicos.
+
+## Certificaciones
+- **[Certificación]** - [Institución/Proveedor]
+  *Fecha de obtención*
 
 ## Proyectos
-
 
 <div style="display: flex; justify-content: center;">
     <div style="width: 400px; background-color: #f0f0f0; border: 1px solid #cccccc; border-radius: 8px; padding: 16px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
@@ -45,25 +64,12 @@ Soy un desarrollador de software con una fuerte pasión por la tecnología y el 
     </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-## Estadistica de Github
+## Estadística de GitHub
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="flex: 1; height: 200px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&theme=radical" alt="Lenguajes más utilizados" style="flex: 1; height: 200px;">
 </div>
-
-
-
-
 
 ---
 
