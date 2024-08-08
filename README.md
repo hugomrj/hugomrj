@@ -32,24 +32,20 @@ Soy un desarrollador con experiencia en una variedad de tecnologías y lenguajes
   - Linux
 
 ## Experiencia Laboral
-### Desarrollador de Software en [Nombre de la Empresa]
-*Fecha de inicio - Fecha de fin*
-- Descripción de responsabilidades y logros.
-- Tecnologías utilizadas: [Tecnologías].
+### Desarrollador de Software en Ministerio de Educacion
+2000 - actual
+- Desarrollo y manteniminto de sistemas y bases da datos.
+- Tecnologías utilizadas: Visual fox, MySQL, Java, Django
 
-### [Otro Rol Anterior]
-*Fecha de inicio - Fecha de fin*
-- Descripción de responsabilidades y logros.
-- Tecnologías utilizadas: [Tecnologías].
+###  Proyectos indemdientes
+2010 - actial
+- Webapps para pymes a medida
+- Tecnologías utilizadas: Java, PosgreSQL, JasperReport, AWS
 
 ## Educación
-### [Nombre del Título] en [Nombre de la Institución]
-*Fecha de inicio - Fecha de fin*
-- Descripción de cursos relevantes o logros académicos.
-
-## Certificaciones
-- **[Certificación]** - [Institución/Proveedor]
-  *Fecha de obtención*
+### Técnico de Nivel Superior Analista Programador
+2001 - 2004
+- ICC - Insituto de Ciencias en la Computacion - Asuncion 
 
 ## Proyectos
 
