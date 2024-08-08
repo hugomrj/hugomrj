@@ -1,7 +1,7 @@
 # ¡Hola! Soy Hugo Marciano Romero
 
 ## Resumen Profesional
-Soy un desarrollador con experiencia en una variedad de tecnologías y lenguajes de programación. Me especializo en aplicaciones web para pymes y busco oportunidades para contribuir en proyectos innovadores y desafiantes.
+Soy desarrollador con un enfoque en aplicaciones web para pymes. Tengo experiencia en múltiples tecnologías y busco proyectos que ofrezcan nuevos retos.
 
 ## Contacto
 - **Email:** hugomrj@gmail.com
