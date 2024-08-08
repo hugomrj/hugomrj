@@ -3,7 +3,7 @@
 Soy un desarrollador de software con una fuerte pasión por la tecnología y el aprendizaje continuo.
 
 ## Resumen Profesional
-Soy un desarrollador con experiencia en una variedad de tecnologías y lenguajes de programación. Me especializo en [tu área de especialización] y busco oportunidades para contribuir en proyectos innovadores y desafiantes.
+Soy un desarrollador con experiencia en una variedad de tecnologías y lenguajes de programación. Me especializo en aplicaciones web para pymes y busco oportunidades para contribuir en proyectos innovadores y desafiantes.
 
 ## Contacto
 - **Email:** hugomrj@gmail.com
