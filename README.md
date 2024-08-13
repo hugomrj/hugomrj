@@ -36,7 +36,7 @@ Soy desarrollador con un enfoque en aplicaciones web para pymes. Tengo experienc
 - Tecnologías utilizadas: Visual fox, MySQL, Java, Django
 
 ###  Proyectos indemdientes
-2010 - actial
+2010 - actual
 - Webapps para pymes a medida
 - Tecnologías utilizadas: Java, PosgreSQL, JasperReport, AWS
 
