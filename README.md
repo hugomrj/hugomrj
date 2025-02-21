@@ -13,7 +13,7 @@ Soy desarrollador con un enfoque en aplicaciones web para pymes. Tengo experienc
 - **Lenguajes de Programación:**
   - Java con Jakarta
   - Vanilla JavaScript
-  - Python (practicando con Django)
+  - Python 
 - **Bases de Datos:**
   - PostgreSQL
   - MySQL
@@ -39,11 +39,6 @@ Soy desarrollador con un enfoque en aplicaciones web para pymes. Tengo experienc
 2010 - actual
 - Webapps para pymes a medida
 - Tecnologías utilizadas: Java, PosgreSQL, JasperReport, AWS
-
-## Educación
-### Técnico de Nivel Superior Analista Programador
-2001 - 2004
-- ICC - Insituto de Ciencias en la Computacion - Asuncion 
 
 ## Proyectos
 
