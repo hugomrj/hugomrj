@@ -1,7 +1,7 @@
 # Hugo Marciano Romero
 
 San Lorenzo, Central, Paraguay  
-**Email:** hugomrj@gmail.com · **WhatsApp:** +595 994 352 968  
+
 **Web:** https://hugomrj.github.io/seti/ · [LinkedIn](https://www.linkedin.com/in/hugomrj/) · [GitHub](https://github.com/hugomrj/) · [YouTube](https://www.youtube.com/)
 
 ---
