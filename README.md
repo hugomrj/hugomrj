@@ -45,4 +45,4 @@ Desarrollador full-stack con experiencia en **Java (Jakarta/Java 21)**, **Python
 
 
 
-¿Querés que lo deje en formato más visual (por ejemplo con badges o una foto) o lo subo así y te doy el `commit` listo?  
+
