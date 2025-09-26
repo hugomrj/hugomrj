@@ -1,65 +1,52 @@
-# ¡Hola! Soy Hugo Marciano Romero
+# Hugo Marciano Romero
 
-## Resumen Profesional
-Soy desarrollador con un enfoque en aplicaciones web para pymes. Tengo experiencia en múltiples tecnologías y busco proyectos que ofrezcan nuevos retos.
-
-## Contacto
-- **Email:** hugomrj@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/hugomrj/](https://www.linkedin.com/in/hugomrj/)
-- **GitHub:** [https://github.com/hugomrj/](https://github.com/hugomrj/)
-- **Facebook:** [https://www.facebook.com/hugomrj/](https://www.facebook.com/hugomrj/)
-
-## Stack
-- **Lenguajes de Programación:**
-  - Java con Jakarta
-  - Vanilla JavaScript
-  - Python 
-- **Bases de Datos:**
-  - PostgreSQL
-  - MySQL
-- **Front-end:**
-  - HTML
-  - CSS
-- **Servidores:**
-  - AWS
-  - Nginx
-  - TomEE
-  - GlassFish
-  - WildFly
-- **Sistemas Operativos:**
-  - Linux
-
-## Experiencia Laboral
-### Desarrollador de Software en Ministerio de Educacion
-2000 - actual
-- Desarrollo y manteniminto de sistemas y bases da datos.
-- Tecnologías utilizadas: Visual fox, MySQL, Java, Django
-
-###  Proyectos indemdientes
-2010 - actual
-- Webapps para pymes a medida
-- Tecnologías utilizadas: Java, PosgreSQL, JasperReport, AWS
-
-## Proyectos
-
-<div style="display: flex; justify-content: center;">
-    <div style="width: 400px; background-color: #f0f0f0; border: 1px solid #cccccc; border-radius: 8px; padding: 16px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-        <h3><a href="http://34.216.58.69:8070/proyectoneto" style="text-decoration: none; color: #333333;">Proyecto Sistema de Facturación Electrónica</a></h3>
-        <p>Una aplicación web desarrollada con Java y PostgreSQL.</p>
-        <ul style="list-style-type: none; padding-left: 0;">
-            <li><strong>Usuario:</strong> demo</li>
-            <li><strong>Contraseña:</strong> demo</li>
-        </ul>
-    </div>
-</div>
-
-## Estadística de GitHub
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="flex: 1; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&theme=radical" alt="Lenguajes más utilizados" style="flex: 1; height: 200px;">
-</div>
+San Lorenzo, Central, Paraguay  
+**Email:** hugomrj@gmail.com · **WhatsApp:** +595 994 352 968  
+**Web:** https://hugomrj.github.io/seti/ · [LinkedIn](https://www.linkedin.com/in/hugomrj/) · [GitHub](https://github.com/hugomrj/) · [YouTube](https://www.youtube.com/)
 
 ---
 
-¡Gracias por visitar mi perfil! Estoy siempre abierto a nuevas oportunidades y colaboraciones. No dudes en ponerte en contacto conmigo.
+## Resumen
+Desarrollador full-stack con experiencia en **Java (Jakarta/Java 21)**, **Python (Django)** y **JavaScript**. Actualmente explorando integración de APIs con modelos de IA (chatbots y agentes), y desarrollando soluciones web para pymes y sistemas gubernamentales.
+
+---
+
+## Tecnologías destacadas
+- **Lenguajes:** Java 21, Python, JavaScript  
+- **Web / Backend:** Jakarta EE, Spring MVC, Django, JSP/JSPX  
+- **Bases de datos:** PostgreSQL, MySQL, Oracle  
+- **Infraestructura:** AWS (EC2), Nginx, Linux (Ubuntu)  
+- **Herramientas:** Git, NetBeans, VS Code, DBeaver, JasperReports
+
+---
+
+## Proyectos destacados
+### Bot de Atención al Cliente (Python + IA)
+- **Telegram:** https://t.me/bonsaiki_bot  
+- **Web:** https://hugomrjpy.pythonanywhere.com/
+
+### Sistema de Facturación Electrónica
+- Demo: http://34.216.58.69:8070/proyectoneto  
+- Usuario: `demo` · Contraseña: `demo`  
+- Stack: Java, PostgreSQL, JasperReports
+
+---
+
+## Experiencia
+- **Ministerio de Educación** — Desarrollador (2010 – Actualidad)  
+  Desarrollo de portales Liferay, migraciones, reportes y sistemas web.
+- **Desarrollador independiente** — (2018 – Actualidad)  
+  Webapps para pymes, middleware, facturación electrónica y soluciones en AWS.
+- Proyectos previos: Visual FoxPro, Delphi, Visual Basic.
+
+---
+
+## Estadísticas (GitHub)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&theme=radical)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&theme=radical)
+
+---
+
+
+
+¿Querés que lo deje en formato más visual (por ejemplo con badges o una foto) o lo subo así y te doy el `commit` listo?  
