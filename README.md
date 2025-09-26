@@ -25,10 +25,6 @@ Desarrollador full-stack con experiencia en **Java (Jakarta/Java 21)**, **Python
 - **Telegram:** https://t.me/bonsaiki_bot  
 - **Web:** https://hugomrjpy.pythonanywhere.com/
 
-### Sistema de Facturación Electrónica
-- Demo: http://34.216.58.69:8070/proyectoneto  
-- Usuario: `demo` · Contraseña: `demo`  
-- Stack: Java, PostgreSQL, JasperReports
 
 ---
 
