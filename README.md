@@ -18,13 +18,6 @@ Desarrollador full-stack con experiencia en **Java (Jakarta/Java 21)**, **Python
 - **Infraestructura:** AWS (EC2), Nginx, Linux (Ubuntu)  
 - **Herramientas:** Git, NetBeans, VS Code, DBeaver, JasperReports
 
----
-
-## Proyectos destacados
-### Bot de Atención al Cliente (Python + IA)
-- **Telegram:** https://t.me/bonsaiki_bot  
-- **Web:** https://hugomrjpy.pythonanywhere.com/
-
 
 ---
 
