@@ -30,12 +30,6 @@ Desarrollador full-stack con experiencia en **Java (Jakarta/Java 21)**, **Python
 
 ---
 
-## Estadísticas (GitHub)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&theme=radical)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&theme=radical)
-
----
-
 
 
 
