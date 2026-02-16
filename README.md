@@ -18,60 +18,46 @@ Trabajo tanto en entornos gubernamentales como en proyectos privados, desarrolla
 
 ---
 
-## 🧠 Stack principal
 
-### Lenguajes
-- Java 21  
-- Python  
-- JavaScript  
+# Hugo Marciano Romero
 
-### Backend
-- Jakarta EE  
-- Spring MVC  
-- Django  
+📍 San Lorenzo, Paraguay  
 
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-
-### Bases de datos
-- PostgreSQL  
-- MySQL  
-- Oracle  
-
-### Infraestructura & DevOps
-- Linux (Ubuntu)  
-- Nginx  
-- AWS (EC2)  
-- Git  
-
-### Herramientas
-- VS Code  
-- NetBeans  
-- DBeaver  
-- JasperReports  
+[![Website](https://img.shields.io/badge/Web-Portfolio-blue?style=for-the-badge)](https://hugomrj.github.io/seti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hugomrj/)
+[![GitHub](https://img.shields.io/badge/GitHub-hugomrj-181717?style=for-the-badge&logo=github)](https://github.com/hugomrj/)
 
 ---
 
-## 💼 Experiencia
+## 🚀 Tecnologías
 
-### Ministerio de Educación — Desarrollador (2010 – Actualidad)
-- Desarrollo y mantenimiento de portales Liferay  
-- Migraciones de sistemas  
-- Generación de reportes institucionales  
-- Desarrollo de sistemas web internos  
+### 🧑‍💻 Lenguajes
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Desarrollador independiente (2018 – Actualidad)
-- Webapps para pymes  
-- Middleware e integración de APIs  
-- Facturación electrónica  
-- Implementación y despliegue en AWS  
+### ⚙ Backend
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-Platform-ED8B00?style=for-the-badge)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
-### Experiencia previa
-- Visual FoxPro  
-- Delphi  
-- Visual Basic  
+### 🗄 Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+
+### ☁ Infraestructura
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![AWS](https://img.shields.io/badge/AWS-EC2-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 📊 Estadísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true)
+
 
 ---
 
