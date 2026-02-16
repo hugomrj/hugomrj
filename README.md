@@ -1,69 +1,48 @@
 # Hugo Marciano Romero
 
-📍 San Lorenzo, Central, Paraguay  
+📍 San Lorenzo, Paraguay  
 
-🔗 **Web:** https://hugomrj.github.io/seti/  
-🔗 **LinkedIn:** https://www.linkedin.com/in/hugomrj/  
-🔗 **GitHub:** https://github.com/hugomrj/  
-🔗 **YouTube:** https://www.youtube.com/
+[![Website](https://img.shields.io/badge/Web-Portfolio-blue?style=flat-square)](https://hugomrj.github.io/seti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hugomrj/)
+[![GitHub](https://img.shields.io/badge/GitHub-hugomrj-181717?style=flat-square&logo=github)](https://github.com/hugomrj/)
+![Profile Views](https://komarev.com/ghpvc/?username=hugomrj&style=flat-square)
 
 ---
 
 ## 🚀 Sobre mí
 
-Desarrollador full-stack con sólida experiencia en **Java (Jakarta EE / Java 21)** y **Python (Django)**.  
-Actualmente enfocado en arquitectura backend moderna, APIs REST, despliegue en Linux y AWS, e integración de soluciones con modelos de IA (chatbots y automatización).
-
-Trabajo tanto en entornos gubernamentales como en proyectos privados, desarrollando soluciones estables, escalables y mantenibles.
+Desarrollador full-stack con experiencia en **Java (Jakarta EE / Java 21)**, **Python (Django)** y **JavaScript**.  
+Enfocado en backend moderno, APIs REST, despliegue en Linux y AWS e integración de soluciones con IA.
 
 ---
 
+# 📊 GitHub Analytics
 
-# Hugo Marciano Romero
-
-📍 San Lorenzo, Paraguay  
-
-[![Website](https://img.shields.io/badge/Web-Portfolio-blue?style=for-the-badge)](https://hugomrj.github.io/seti/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hugomrj/)
-[![GitHub](https://img.shields.io/badge/GitHub-hugomrj-181717?style=for-the-badge&logo=github)](https://github.com/hugomrj/)
+## 🔝 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&hide_border=true&langs_count=8)
 
 ---
 
-## 🚀 Tecnologías
-
-### 🧑‍💻 Lenguajes
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙ Backend
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-Platform-ED8B00?style=for-the-badge)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-
-### 🗄 Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-
-### ☁ Infraestructura
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![AWS](https://img.shields.io/badge/AWS-EC2-232F3E?style=for-the-badge&logo=amazonaws)
+## 📈 Estadísticas generales
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
-## 📊 Estadísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true)
-
+## 🔥 Racha de contribuciones
+![GitHub Streak](https://streak-stats.demolab.com?user=hugomrj&hide_border=true)
 
 ---
 
-## 🎯 Intereses actuales
+## 📅 Actividad anual
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hugomrj&hide_border=true)
 
-- Integración de IA en aplicaciones web  
-- Arquitectura backend y buenas prácticas  
-- Automatización de procesos  
-- Seguridad y despliegue en servidores Linux  
+---
+
+## 🏆 Logros
+![trophy](https://github-profile-trophy.vercel.app/?username=hugomrj&margin-w=8&no-frame=true)
+
+---
+
+## 🧠 Métricas avanzadas
+
+![Metrics](https://metrics.lecoq.io/hugomrj?template=classic&languages=1&isocalendar=1&habits=1&activity=1&followup=1&achievements=1&base=header%2Cactivity%2Ccommunity)
