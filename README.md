@@ -16,26 +16,18 @@ Enfocado en backend moderno, APIs REST, despliegue en Linux y AWS e integración
 
 ---
 
+
 # 📊 GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&theme=default&cache_seconds=1800)
-
-
-
 ## 📈 Estadísticas generales
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&include_all_commits=true&count_private=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugomrj&theme=default)
 
 ---
 
-## 🔥 Racha de contribuciones
-![GitHub Streak](https://streak-stats.demolab.com?user=hugomrj)
+## 🔝 Lenguajes más usados
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugomrj&theme=default)
 
 ---
 
 ## 📅 Actividad
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hugomrj)
-
----
-
-## 🧠 Métricas completas (lenguajes incluidos)
-![Metrics](https://metrics.lecoq.io/hugomrj?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.sections=most-used&isocalendar=1&activity=1&base=header%2Cactivity)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugomrj&theme=default&utcOffset=-4)
