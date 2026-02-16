@@ -2,7 +2,11 @@
 
 📍 San Lorenzo, Paraguay  
 
-![Profile Views](https://komarev.com/ghpvc/?username=hugomrj&style=flat-square)
+
+[![Website](https://img.shields.io/badge/Web-Portfolio-blue?style=flat-square)](https://hugomrj.github.io/seti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hugomrj/)
+[![GitHub](https://img.shields.io/badge/GitHub-hugomrj-181717?style=flat-square&logo=github)](https://github.com/hugomrj/)
+
 
 ---
 
