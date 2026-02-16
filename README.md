@@ -18,6 +18,10 @@ Enfocado en backend moderno, APIs REST, despliegue en Linux y AWS e integración
 
 # 📊 GitHub Analytics
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&theme=default&cache_seconds=1800)
+
+
+
 ## 📈 Estadísticas generales
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&include_all_commits=true&count_private=true)
 
