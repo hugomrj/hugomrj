@@ -35,3 +35,12 @@ Enfocado en backend moderno, APIs REST, despliegue en Linux y AWS e integración
 
 ## 📅 Actividad
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugomrj&theme=default&utcOffset=-4)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugomrj&theme=default&utcOffset=-4)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugomrj&theme=default)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugomrj&theme=default)
+
+
+
