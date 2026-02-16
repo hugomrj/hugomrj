@@ -11,38 +11,27 @@
 
 ## 🚀 Sobre mí
 
-Desarrollador full-stack con experiencia en **Java (Jakarta EE / Java 21)**, **Python (Django)** y **JavaScript**.  
+Desarrollador full-stack con experiencia en Java (Jakarta EE / Java 21), Python (Django) y JavaScript.  
 Enfocado en backend moderno, APIs REST, despliegue en Linux y AWS e integración de soluciones con IA.
 
 ---
 
 # 📊 GitHub Analytics
 
-## 🔝 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomrj&layout=compact&hide_border=true&langs_count=8)
-
----
-
 ## 📈 Estadísticas generales
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugomrj&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
 
 ## 🔥 Racha de contribuciones
-![GitHub Streak](https://streak-stats.demolab.com?user=hugomrj&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hugomrj)
 
 ---
 
-## 📅 Actividad anual
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hugomrj&hide_border=true)
+## 📅 Actividad
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hugomrj)
 
 ---
 
-## 🏆 Logros
-![trophy](https://github-profile-trophy.vercel.app/?username=hugomrj&margin-w=8&no-frame=true)
-
----
-
-## 🧠 Métricas avanzadas
-
-![Metrics](https://metrics.lecoq.io/hugomrj?template=classic&languages=1&isocalendar=1&habits=1&activity=1&followup=1&achievements=1&base=header%2Cactivity%2Ccommunity)
+## 🧠 Métricas completas (lenguajes incluidos)
+![Metrics](https://metrics.lecoq.io/hugomrj?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.sections=most-used&isocalendar=1&activity=1&base=header%2Cactivity)
